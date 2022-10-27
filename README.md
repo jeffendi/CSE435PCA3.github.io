@@ -4,11 +4,11 @@ Michigan State Software Engineering Team 1
 ## Background
 
 
-## [Project Description](https://jeffendi.github.io/CSE435PCASTeam1.github.io/pdfs/PCA1.pdf)
+## [Project Description](https://cse.msu.edu/~effendi1/secure/pdfs/PCA1.pdf)
 _._
 
 ## Deployment
-This site is hosted on the MSU CSE servers. You can check the site out [here]() for the hosted version or peruse the source code here.
+This site is hosted on the MSU CSE servers. You can check the site out [here](https://cse.msu.edu/~effendi1/) for the hosted version or peruse the source code here.
 
 ## Authors
 
